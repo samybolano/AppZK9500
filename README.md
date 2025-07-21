@@ -1,3 +1,12 @@
+## Tabla de Contenido
+
+- [Introducción](#introducción)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [API](#api)
+- [Licencia](#licencia)
+
+
 ZKTECO ZK9500 Windows Form App
 
 1. Edita el archivo App.config con la configuracion de tu SERVER y BASE DE DATOS
